@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aaryan Bhardwaj</h1>
+<h3 align="center">🚀 Aspiring Developer | AI & Web Enthusiast | Hacktoberfest Contributor</h3>
 
-<!--
-**AaryanBhardwaj142003/aaryanbhardwaj142003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 I'm a B.Tech student passionate about **AI, Full Stack Development, and Open Source**
+- 🌱 Currently exploring **Next.js, TailwindCSS, and Machine Learning**
+- 💡 Participated in **Hacktoberfest 2025**
+- ⚡ Fun fact: I love building things that make people’s lives easier!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Achievements
+[![An image of @aaryanbhardwaj142003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaryanbhardwaj142003)](https://holopin.io/@aaryanbhardwaj142003)
+
+---
+
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryanbhardwaj142003&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/aaryanbhardwaj142003/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:aaryanbhardwaj142003@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
