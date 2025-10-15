@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aaryan Bhardwaj</h1>
-<h3 align="center">🚀 Aspiring Developer | AI & Web Enthusiast | Hacktoberfest Contributor</h3>
+<h3 align="center">🚀 Aspiring Developer | Blockchain & Web Enthusiast | Hacktoberfest Contributor </h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I'm a B.Tech student passionate about **AI, Full Stack Development, and Open Source**
+- 🎓 I'm a B.Tech student passionate about **Blockchain, Full Stack Development, and Open Source**
 - 🌱 Currently exploring **Next.js, TailwindCSS, and Machine Learning**
 - 💡 Participated in **Hacktoberfest 2025**
 - ⚡ Fun fact: I love building things that make people’s lives easier!
@@ -24,9 +24,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryanbhardwaj142003&show_icons=true&theme=tokyonight)
 
 ---
 
